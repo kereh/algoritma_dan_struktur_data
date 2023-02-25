@@ -4,8 +4,6 @@
 
 #include <iostream>
 
-using namespace std;
-
 // fungsi binary search dengan 3 parameter
 // parameter 1 = int x = data
 // parameter 2 = int y = low
@@ -78,9 +76,9 @@ int main() {
 	// jika variabel result memberikan nilai = -1
 	(result == -1)
 		// maka 
-		? cout << target <<" tidak ditemukan\n"
+		? std::cout << target <<" tidak ditemukan\n"
 		// sebaliknya
-		: cout << target << " ditemukan pada index " << result << endl;
+		: std::cout << target << " ditemukan pada index " << result << std::endl;
 
 	// return sebuah angka
 	// karena fungsi main menggunakan tipe data int
