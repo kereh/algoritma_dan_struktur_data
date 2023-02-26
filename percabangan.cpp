@@ -3,7 +3,7 @@
 // Repository : https://www.github.com/kereh
 #include <iostream>
 #include <vector>
-// fungsi binary search dengan 3 parameter
+// fungsi binary search dengan 4 parameter
 // parameter 1 = int x = data
 // parameter 2 = int y = low
 // parameter 3 = int z = high
