@@ -1,12 +1,11 @@
 // author : rkereh
 // repository : github.com/kereh
-// tested on : Linux 5.15.0-1029-gcp
-// os : Ubuntu 20.04
+// tested on : (Parrot OS) Linux 5.15.0-1029-gcp
 
 #include <ctime>
 #include <iostream>
 #include <stdlib.h>
-#include <unistd.h>
+#include <unistd.h> // fungsi sleep untuk linux
 #include <vector>
 
 // class batu, gunting kertas
