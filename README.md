@@ -8,4 +8,4 @@
 
 Mengaplikasikan percabangan menggunakan algoritma binary search dan game batu gunting kertas
 
-![]()
+![gambar](/DSA_Tugas_1.png)
