@@ -1,6 +1,7 @@
-// Info
-// Created By RKereh
+// Author : kereh
 // Repository : https://www.github.com/kereh
+// Tested on : Archlinux 6.1.14-1-lts
+
 #include <iostream>
 #include <vector>
 // fungsi binary search dengan 4 parameter
