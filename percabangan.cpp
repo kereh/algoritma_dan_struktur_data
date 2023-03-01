@@ -53,12 +53,11 @@ int binary_search(std::vector<int> x, int y, int z, int n) {
 // fungsi main atau fungsi utama
 int main() {
   // variabel data
-  std::vector<int> data;
-  data = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
+  std::vector<int> data = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
   // nilai low = 0
   int low = 0;
   // nilai high = banyaknya elemen dalam array
-  int high = std::end(data) - std::begin(data);
+  int high = data.size();
   // elemen yang akan kita cari didalam array
   // contoh target
   int target = 1;
